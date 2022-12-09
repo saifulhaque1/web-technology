@@ -1,0 +1,25 @@
+img{
+    width: 150px;
+    height: 150px;
+    margin-left: 80px;
+    
+}
+h4{
+    text-align: center;
+}
+h3{
+    margin-top: 60px;
+}
+
+#frame2{
+    background-color:#48dbfb;
+}
+h2{
+    margin-top: 50px;
+    text-align:center;
+}
+
+#ok{
+    margin: 0 100px;
+    padding: 59px 0;
+}
